@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::API
+  config.time_zone = 'Asia/Singapore'
   include Response
   include ExceptionHandler
 
