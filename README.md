@@ -1,24 +1,21 @@
-# README
+### Name: Jayanth Balasubramanian
+### Matriculation No: A0245173H
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Final Assignment Writeup
 
-* Ruby version
+Can be found [here](https://github.com/Jayanth-Balasubramanian/task-mgr-frontend/blob/master/JayanthBalasubramanian_A0245173H_FinalWriteup.pdf).  
 
-* System dependencies
+# Link to backend repo
+[Frontend repo](https://github.com/Jayanth-Balasubramanian/task-mgr-frontend)  
 
-* Configuration
+# Test user ID and password
+Email: test@test.com  
+Password: test  
 
-* Database creation
+# Backend and frontend Heroku links
+[Link to frontend page](http://task-mgr-frontend.herokuapp.com/app)  
+[All backend queries go here](https://task-mgr-backend.herokuapp.com/)  
+__Note that the backend is only an API and has no webpage.__
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
